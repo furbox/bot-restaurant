@@ -1,0 +1,57 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219994349339@s.whatsapp.net',
+    fromMe: false,
+    id: 'BDA11174FDAEBCFD10489A1BFB5FA9BE',
+    participant: undefined
+  },
+  messageTimestamp: 1681703970,
+  pushName: 'Sistemas Online',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '5219994349339'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219994349339@s.whatsapp.net',
+    fromMe: false,
+    id: 'C541BEEBE2BA9E64B4A475FB74C17BA3',
+    participant: undefined
+  },
+  messageTimestamp: 1681703978,
+  pushName: 'Sistemas Online',
+  message: Message {
+    conversation: 'MENU',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'MENU',
+  from: '5219994349339'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219994349339@s.whatsapp.net',
+    fromMe: false,
+    id: '87A3E7DAB9115BDD17BB7BDBB067A281',
+    participant: undefined
+  },
+  messageTimestamp: 1681704015,
+  pushName: 'Sistemas Online',
+  message: Message {
+    conversation: '2-1,2,3-media',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2-1,2,3-media',
+  from: '5219994349339'
+}
