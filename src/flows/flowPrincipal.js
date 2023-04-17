@@ -11,6 +11,7 @@ const flowPrincipal = addKeyword(['hola', 'ole', 'alo', 'buenas', 'buen', 'princ
         "*INSTRUCCIONES* Ver como se ordena por aquí",
         "*TERMINAR* Para terminar tu orden",
         "*LOCAL* para ver nuestra dirección",
+        "*PLATILLOS* para mostrar 3 de la casa",
     ])
     .addAnswer(`Responda con la palabra correspondiente`);
 
