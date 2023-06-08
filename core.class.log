@@ -1,0 +1,57 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '17869565443@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5CA1B9B857606CD9DB',
+    participant: undefined
+  },
+  messageTimestamp: 1681915665,
+  pushName: 'Adrians_mighty',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '17869565443'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17869565443@s.whatsapp.net',
+    fromMe: false,
+    id: '3A355A0347086649A073',
+    participant: undefined
+  },
+  messageTimestamp: 1681915690,
+  pushName: 'Adrians_mighty',
+  message: Message {
+    conversation: 'Local',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Local',
+  from: '17869565443'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '17869565443@s.whatsapp.net',
+    fromMe: false,
+    id: '3A23E2B9BDFF958C308A',
+    participant: undefined
+  },
+  messageTimestamp: 1681915702,
+  pushName: 'Adrians_mighty',
+  message: Message {
+    conversation: 'MENU',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'MENU',
+  from: '17869565443'
+}
